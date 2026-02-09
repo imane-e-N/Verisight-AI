@@ -61,12 +61,12 @@ export function Header() {
             <div className="absolute inset-0 bg-primary/20 rounded-full blur-md opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
             <img
               src={logo}
-              alt="DeepTrust Logo"
+              alt="Versight AI Logo"
               className="h-10 w-10 rounded-full ring-2 ring-primary/20 transition-transform duration-300 group-hover:scale-105"
             />
           </div>
           <span className="font-bold text-xl bg-clip-text text-transparent bg-gradient-to-r from-primary to-blue-600">
-            DeepTrust AI
+            Versight AI
           </span>
         </div>
 

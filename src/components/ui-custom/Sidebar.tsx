@@ -248,7 +248,7 @@ export function Sidebar() {
                 />
               </div>
               <span className="font-bold text-lg bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/60">
-                DeepTrust AI
+                Versight AI
               </span>
             </NavLink>
           </div>

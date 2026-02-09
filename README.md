@@ -1,8 +1,8 @@
-# DeepTrust
+# Versight AI
 
-DeepTrust est une plateforme avancée d'analyse et de vérification alimentée par l'intelligence artificielle (Google Gemini). Elle permet de détecter les contenus manipulés (Deepfakes) et d'analyser la conformité des documents financiers.
+Versight AI est une plateforme avancée d'analyse et de vérification alimentée par l'intelligence artificielle (Google Gemini). Elle permet de détecter les contenus manipulés (Deepfakes) et d'analyser la conformité des documents financiers.
 
-![DeepTrust Banner](public/logo.jpeg)
+![Versight AI Banner](public/logo.jpeg)
 
 ## 🚀 Fonctionnalités Principales
 

@@ -33,7 +33,7 @@ export function Register() {
       <Card className="w-full max-w-md">
         <CardHeader>
           <CardTitle>Inscription</CardTitle>
-          <CardDescription>Créez un compte pour accéder à DeepTrust</CardDescription>
+          <CardDescription>Créez un compte pour accéder à Versight AI</CardDescription>
         </CardHeader>
         <form onSubmit={handleSubmit}>
           <CardContent className="space-y-4">

@@ -115,7 +115,7 @@ export function TechnicalInsight() {
             Technical <span className="text-primary">Deep Dive</span>
           </h2>
           <p className="text-muted-foreground text-lg">
-            We believe in transparency. Here is a complete breakdown of every tool, technology, and architectural decision that powers DeepTrust AI.
+            We believe in transparency. Here is a complete breakdown of every tool, technology, and architectural decision that powers Versight AI.
           </p>
         </motion.div>
 

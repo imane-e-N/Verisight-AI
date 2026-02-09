@@ -367,7 +367,7 @@ export function DeepfakeLab() {
                 <Progress value={94.5} className="h-2" />
               </div>
               <div className="p-4 rounded-lg bg-background/50 border mt-4">
-                <h4 className="font-semibold mb-2 text-sm">Mise à jour DeepTrust v2.4</h4>
+                <h4 className="font-semibold mb-2 text-sm">Mise à jour Versight AI v2.4</h4>
                 <p className="text-xs text-muted-foreground">
                   Nouveaux algorithmes de détection ajoutés pour les modèles de diffusion latente (Stable Diffusion XL, Midjourney v6).
                 </p>

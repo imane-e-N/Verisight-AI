@@ -33,7 +33,7 @@ export function Login() {
       <Card className="w-full max-w-md">
         <CardHeader>
           <CardTitle>Connexion</CardTitle>
-          <CardDescription>Entrez vos identifiants pour accéder à DeepTrust</CardDescription>
+          <CardDescription>Entrez vos identifiants pour accéder à Versight AI</CardDescription>
         </CardHeader>
         <form onSubmit={handleSubmit}>
           <CardContent className="space-y-4">
