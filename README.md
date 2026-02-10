@@ -2,7 +2,7 @@
 
 Versight AI est une plateforme avancée d'analyse et de vérification alimentée par l'intelligence artificielle (Google Gemini). Elle permet de détecter les contenus manipulés (Deepfakes) et d'analyser la conformité des documents financiers.
 
-![Versight AI Banner](public/logo1.png.jpeg)
+![Versight AI Banner]("C:\Users\Welecom\OneDrive\Bureau\Hack Gemini\logo1.png.jpeg")
 
 ## 🚀 Fonctionnalités Principales
 
